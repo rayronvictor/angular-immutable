@@ -42,3 +42,4 @@ You can find additional [immutable-js tools for Angular here](https://github.com
 # License
 
 MIT
+
